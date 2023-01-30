@@ -1,0 +1,13 @@
+{
+    "walks": [
+        { "walksname": "Казуальная", "walk": "MP_Style_Casual" },
+        { "walksname": "Дерганная", "walk": "MP_Style_Crazy" },
+        { "walksname": "Выпивший", "walk": "mp_style_drunk" },
+        { "walksname": "В развалочку", "walk": "MP_Style_EasyRider" },
+        { "walksname": "Кокетка", "walk": "MP_Style_Flamboyant" },
+        { "walksname": "Быдловатая", "walk": "MP_Style_Gunslinger" },
+        { "walksname": "Похрамывая", "walk": "mp_style_inquisitive" },
+        { "walksname": "Аккуратная", "walk": "MP_Style_Refined" },
+        { "walksname": "Осторожная", "walk": "MP_Style_SilentType" }
+    ]
+}
